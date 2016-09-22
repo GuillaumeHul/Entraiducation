@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin);
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Cabin;
+	font-size: 1em;
+}
+
+html {
+	width: 100%;
+	margin: auto;
+}
+
+body {
+	width: 1000px;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu {
+	background-color: #95d3e8;
+	padding: 10px;
+	font-size: 1.2em;
+}
+
+.menu > ul li {
+	display: inline;
+}
+
+.menu > ul > li > a {
+	text-decoration: none;
+	font-size: 1em;
+	color: white;
+}
+
+.menu span  {
+	color: blue;
+	float: right;
+}
+
+h1 {
+	font-size: 1.8em;
+	padding-top: 100px;
+}
+
+.menu span a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: #51a580;
+}
+
+.success
+{
+	color: rgba(76, 175, 80, 1);
+}
+
+.danger
+{
+	color: rgba(255, 84, 72, 1);
+}
