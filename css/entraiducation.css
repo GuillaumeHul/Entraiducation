@@ -3236,7 +3236,7 @@ footer
 
     #com #temoins, #com #temoins2
     {
-        width: 100%
+        width: 100%;
         display: flex;
         flex-direction: column;
         margin-top: 50px;
@@ -3267,7 +3267,6 @@ footer
     #com > main > #articles > #cate
     {
         width: 80%;
-        position
     }
 
     /* Nos rapports */
